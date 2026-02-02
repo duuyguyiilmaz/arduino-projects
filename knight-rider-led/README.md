@@ -1,6 +1,6 @@
 # Knight Rider LED
 
-This Arduino project creates the classic Knight Rider (Kara Şimşek) LED animation using a breadboard and discrete components.
+This Arduino project creates the classic Knight Rider  LED animation using a breadboard and discrete components.
 
 ## Hardware Used
 
