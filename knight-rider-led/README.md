@@ -24,8 +24,4 @@ LEDs turn on sequentially from left to right and then back from right to left, c
 ## Software
 
 
-## 🎥 Demo Video
 
-You can watch the working system in the video below:
-
-karasimsek_demo.mp4
